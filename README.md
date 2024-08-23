@@ -1,5 +1,5 @@
 ## About me 
-### The lamb says "Me"
+### The lamb says "Meee"
 ### idk what im doing here :з
 
 ## I can make "Hello world" on
