@@ -17,8 +17,8 @@
 
 ## The incident at the bar
 ### -Sir. Do you want me to repeat?
-### - Yes
-###- Get the fuck out of the bar!
+### -Yes
+### -Get the fuck out of the bar!
 
 <!--
 **Baduga/Baduga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
