@@ -1,8 +1,8 @@
-<h1> About me </h1>
-<h3> The lamb says "Me". </h3>
-<h3>idk what im doing here :з</h3>
+## About me 
+### The lamb says "Me"
+### idk what im doing here :з
 
-<h1> I can make "Hello world"</h1>
+## I can make "Hello world
 #on
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
 
