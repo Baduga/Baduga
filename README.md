@@ -14,6 +14,12 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
+
+## The incident at the bar
+### -Sir. Do you want me to repeat?
+### - Yes
+№##- Get the fuck out of the bar!
+
 <!--
 **Baduga/Baduga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
