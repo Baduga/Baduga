@@ -2,7 +2,7 @@
 ### The lamb says "Me"
 ### idk what im doing here :з
 
-## I can make "Hello world on
+## I can make "Hello world" on
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
