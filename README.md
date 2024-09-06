@@ -2,7 +2,7 @@
 ### The lamb says "Meee"
 ### idk what im doing here :з
 
-## I can make #"Hello world" ##on
+## I can make "Hello world" on
 
 ![](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
